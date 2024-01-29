@@ -1,1 +1,1 @@
-hello, world! this is my firts GitHub depo
+hello, world! this is my firts GitHub repo
